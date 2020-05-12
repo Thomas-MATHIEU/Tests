@@ -64,7 +64,7 @@ INSERT INTO Pokemon SET numero = 057, type = 'combat', nom = 'Colossinge', nivea
 INSERT INTO Pokemon SET numero = 058, type = 'feu', nom = 'Caninos', niveau = FLOOR(RAND()*100+1);
 INSERT INTO Pokemon SET numero = 059, type = 'feu', nom = 'Arcanin', niveau = FLOOR(RAND()*100+1);
 INSERT INTO Pokemon SET numero = 060, type = 'eau', nom = 'Ptitard', niveau = FLOOR(RAND()*100+1);
-INSERT INTO Pokemon SET numero = 061, type = 'eau', nom = 'Têtarte', niveau = FLOOR(RAND()*100+1);
+INSERT INTO Pokemon SET numero = 061, type = 'eau', nom = 'Tetarte', niveau = FLOOR(RAND()*100+1);
 INSERT INTO Pokemon SET numero = 062, type = 'eau-combat', nom = 'Tartard', niveau = FLOOR(RAND()*100+1);
 INSERT INTO Pokemon SET numero = 063, type = 'psy', nom = 'Abra', niveau = FLOOR(RAND()*100+1);
 INSERT INTO Pokemon SET numero = 064, type = 'psy', nom = 'Kadabra', niveau = FLOOR(RAND()*100+1);
